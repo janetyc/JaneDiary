@@ -1,0 +1,3 @@
+configparser==3.7.4
+translate==3.5.0
+TwitterSearch==1.0.2
